@@ -1,0 +1,13 @@
+﻿Create an integer stack of size 10. You can only use an array.
+
+Implement 
+	- Pop (take item from top)
+	- Push (add item to stack)
+	- Count (return length of stack)
+
+throw exceptions if you pop too much! or push too much.
+
+e.g.
+Push 3, 5, 2, 9
+Pop returns 9
+Pop returns 2
